@@ -21,12 +21,21 @@ https://github.com/Roopshali/StellarWalletX/assets/75069150/7a1b5b6d-96aa-4599-9
 # Here is the link if the above video is not working: https://drive.google.com/file/d/1sD-8rX6okpqv1YOgKnuQis9WW7r6AwHO/view?usp=sharing
 
 ## Getting Started:
-* **Clone the repository:** git clone https://github.com/Roopshali/StellarWalletX.git
+* **Clone the repository:**
+```
+  git clone https://github.com/Roopshali/StellarWalletX.git
+```
 * ```
   cd stellarWalletX
   ```
-* **Install dependencies:** pip install -r requirements.txt
-* **Run the app:** streamlit run main.py
+* **Install dependencies:**
+```
+  pip install -r requirements.txt
+```
+* **Run the app:**
+```
+  streamlit run main.py
+```
 
 
 ### Let's revolutionize cross-border payments together! 🌍✨
