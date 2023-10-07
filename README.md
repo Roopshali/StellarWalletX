@@ -1,6 +1,11 @@
 # StellarWalletX: Revolutionizing Cross-Border Payments 🚀
 Welcome to **StellarWalletX** – your passport to seamless cross-border transactions on the Stellar blockchain! This cutting-edge repository combines the power of Stellar SDK and Streamlit to redefine your financial interactions. Say goodbye to complexities; say hello to effortless, borderless payments!
 
+## Made by Roopshali Roy
+* CSBS 4th Year
+* Enrollment number: 12020002018001
+* Roll Number: 05
+
 ## Features:
 * **Effortless Transactions:** Create accounts, manage funds, and execute transactions with a few clicks.
 * __User-Friendly Interface:__ Intuitive design for smooth navigation, ensuring a hassle-free experience.
