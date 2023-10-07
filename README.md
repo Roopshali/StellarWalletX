@@ -13,7 +13,7 @@ Welcome to **StellarWalletX** – your passport to seamless cross-border transac
 * **Demo Video:** See StellarWalletX in action! Watch Demo Video
 * **Project Presentation:** Delve deeper into the project’s concepts. View 
 ## Getting Started:
-* **Clone the repository:** git clone https://github.com/username/StellarWalletX.git
+* **Clone the repository:** git clone https://github.com/Roopshali/StellarWalletX.git
 * **Install dependencies:** pip install -r requirements.txt
 * **Run the app:** streamlit run main.py
 
